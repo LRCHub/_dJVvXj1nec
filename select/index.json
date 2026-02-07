@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "VORTEX",
+  "base_artist": "セツコ(空白ごっこ)",
+  "createdAt": "2026-02-07T07:26:54.170571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "As the Vortex Illumines the Crystalline Walls of Kor-Avul-Thaa",
+      "artist": "Bal-Sagoth",
+      "has_synced": false,
+      "path": "select/01_As_the_Vortex_Illumines_the_Crystalline_Walls_of_Kor-Avul-Thaa_Bal-Sagoth.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Demon's Vortex",
+      "artist": "Abigor",
+      "has_synced": false,
+      "path": "select/02_Demon's_Vortex_Abigor.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vortex",
+      "artist": "Spahn Ranch",
+      "has_synced": false,
+      "path": "select/03_Vortex_Spahn_Ranch.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wizard of the Vortex",
+      "artist": "Candlemass",
+      "has_synced": false,
+      "path": "select/04_Wizard_of_the_Vortex_Candlemass.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In the Vortex",
+      "artist": "Diabulus In Musica",
+      "has_synced": true,
+      "path": "select/05_In_the_Vortex_Diabulus_In_Musica.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Life's Vortex",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/06_Life's_Vortex_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Life's Vortex (single version)",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/07_Life's_Vortex_(single_version)_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Life's Vortex (Previously Unreleased)(Single Version)",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/08_Life's_Vortex_(Previously_Unreleased)(Single_Version)_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vortex",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/09_Vortex_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vortex",
+      "artist": "Jinjer",
+      "has_synced": true,
+      "path": "select/10_Vortex_Jinjer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VORTEX",
+      "artist": "セツコ(空白ごっこ)",
+      "has_synced": false,
+      "path": "select/pl_01_VORTEX_セツコ(空白ごっこ).txt"
+    }
+  ]
+}
